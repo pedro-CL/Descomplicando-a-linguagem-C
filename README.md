@@ -8,6 +8,8 @@ Neste repositório terá ilustrações e exemplos para entender melhor a linguag
 ## O que você vai aprender:
 <br>
 
+> O conteúdo vai crescendo na medida que vou publicando. Então fique atento  ; ) 
+
 ### Conceitos Básicos
   - Introdução às Bibliotecas e Funções
     - Utilização do comando `#include` para importar bibliotecas.
@@ -19,24 +21,6 @@ Neste repositório terá ilustrações e exemplos para entender melhor a linguag
   - Entrada e Saída de Dados
     - Utilização das funções `printf()` e `scanf()` para leitura e escrita de dados.
 
-### Constantes
-  - Comando `#define`
-  - 
-    
-### Estrutura de Controle
-
-- Estruturas de Repetição:
-  - Utilização de `for`, `while`, e `do-while` para repetição de blocos de código.
-
-
-
-### Funções
-
-### Arrays e Strings 
-
-### Ponteiros
-
-### Estrutura de dados
 
 <br><br><br>
 ## Bibliografia:
