@@ -10,17 +10,15 @@ Neste repositório terá ilustrações e exemplos para entender melhor a linguag
 
 > O conteúdo vai crescendo na medida que vou publicando. Então fique atento  ; ) 
 
+### Introdução da linguagem C
+  - Caracteristicas
+  - influências
+    
 ### Conceitos Básicos
-  - Introdução às Bibliotecas e Funções
-    - Utilização do comando `#include` para importar bibliotecas.
-      
-  - Variáveis em C
-    - Declaração e atribuição de variáveis.
-    - Tipos de dados em C.
-      
+  - Esqueleto do programa 
+  - Bibliotecas e suas Funções
+  - Variáveis
   - Entrada e Saída de Dados
-    - Utilização das funções `printf()` e `scanf()` para leitura e escrita de dados.
-
 
 <br><br><br>
 ## Bibliografia:
